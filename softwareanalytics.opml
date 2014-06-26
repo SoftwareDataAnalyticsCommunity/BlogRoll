@@ -21,7 +21,8 @@
 			<outline text="Mei Nagappan" type="link" url="http://thoughtsofmei.blogspot.com/feeds/posts/default"/>
 			<outline text="Georgios Gousios" type="link" url="http://www.gousios.gr/atom.xml"/>
 			<outline text="Diomidis Spinellis" type="link" url="http://www.spinellis.gr/blog/dds-blog-rss.xml"/>	
-			<outline text="Mircea Lungu" type="link" url="http://mir.lu/rss"/>	
+			<outline text="Mircea Lungu" type="link" url="http://mir.lu/rss"/>
+			<outline text="Andrew J. Ko" type="link" url="http://blogs.uw.edu/ajko/"/>
 	</outline>
 </body>
 </opml>
